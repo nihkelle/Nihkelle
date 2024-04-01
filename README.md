@@ -2,7 +2,7 @@
 
 <h2>👩🏽‍💻 SQL Projects:</h2>
 
-- <b>Retail Insights Database Project (ERDPlus and SQL)</b>
+- <b>Retail Insights Database Project</b>
   - [Zagi Sales](https://github.com)
  
 <h2>👩🏽‍💻 Python Projects:</h2>

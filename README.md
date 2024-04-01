@@ -12,7 +12,7 @@
 - <b>Python Data Structure Manipulations and Algortihms</b>
   - [Selective Aggregation and Analysis Techniques in Python](https://github.com/nihkelle/Python_Selective-Aggregation-and-Analysis-Techniques-in-Python/tree/main) 
 - <b>Data Handling and Security Essentials in Python</b>
-  - [File Operations and Authentication System](https://github.com/joshmadakor1/Algorithms-Practice) (hw 4)
+  - [File Operations and Authentication System](https://github.com/nihkelle/Python_File-Operations-and-Authentication-System) 
 
 <h2>👩🏽‍💻 R Projects:</h2>
 

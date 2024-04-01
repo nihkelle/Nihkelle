@@ -3,12 +3,12 @@
 <h2>👩🏽‍💻 SQL Projects:</h2>
 
 - <b>Retail Insights Database Project (ERDPlus and SQL)</b>
-  - [Zagi Sales](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Zagi Sales](https://github.com)
  
 <h2>👩🏽‍💻 Python Projects:</h2>
 
 - <b>Foundational Python Programming: Interactive Applications</b>
-  - [Interactive Applications](https://github.com/joshmadakor1/Algorithms-Practice) (hw 1)
+  - [Interactive Applications](https://github.com/nihkelle/Python_InteractiveApplications/tree/main) (hw 1)
 - <b>Python Data Structure Manipulations and Algortihms</b>
   - [Selective Aggregation and Analysis Techniques in Python](https://github.com/joshmadakor1/Algorithms-Practice) (hw 3)
 - <b>Data Handling and Security Essentials in Python</b>

@@ -17,7 +17,7 @@
 <h2>👩🏽‍💻 R Projects:</h2>
 
 - <b>Comprehensive Data Analysis Techniques</b>
-  - [Basic Computations to Advanced Data Modeling](https://github.com/joshmadakor1/Algorithms-Practice) (hw6)
+  - [Basic Computations to Advanced Data Modeling](https://github.com/nihkelle/R_Basic_Computations_to_Advanced_Data_Modeling)
 - <b>Data Visualization and Manipulation in R</b>
   - [Analyzing and Visualizing Biological Data](https://github.com/joshmadakor1/Algorithms-Practice) (hw7)
 

@@ -10,7 +10,7 @@
 - <b>Foundational Python Programming: Interactive Applications</b>
   - [Interactive Applications](https://github.com/nihkelle/Python_InteractiveApplications/tree/main) 
 - <b>Python Data Structure Manipulations and Algortihms</b>
-  - [Selective Aggregation and Analysis Techniques in Python](https://github.com/joshmadakor1/Algorithms-Practice) (hw 3)
+  - [Selective Aggregation and Analysis Techniques in Python](https://github.com/nihkelle/Python_Selective-Aggregation-and-Analysis-Techniques-in-Python/blob/main/README.md) 
 - <b>Data Handling and Security Essentials in Python</b>
   - [File Operations and Authentication System](https://github.com/joshmadakor1/Algorithms-Practice) (hw 4)
 

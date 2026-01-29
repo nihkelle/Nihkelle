@@ -1,9 +1,9 @@
 <h1>✨ Nihkelle Scott | MSBA Canditate | Data Science Enthusiast ✨</h1> 
 
-<h2>👩🏽‍💻 SQL Projects:</h2>
+<h2>👩🏽‍💻 Test:</h2>
 
-- <b>Retail Insights Database Project</b>
-  - [Zagi Sales](https://github.com)
+- <b>Test</b>
+  - [Test](https://github.com/nihkelle/Test/tree/main) 
  
 <h2>👩🏽‍💻 Python Projects:</h2>
 

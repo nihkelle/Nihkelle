@@ -25,7 +25,7 @@
 
 <b> Master of Science in Business Analytics</b>
 - California State University, Sacramento
-- Expected to Graduated May of 2025
+- Expected to Graduated May of 2027
 - Related Courses: Programming for Business Analytics (Python, R) | Data Management for Business Analytics (SQL) | Data Visualization and Communication for Business Analytics (Tableau) | Decision Analytics for Business (Python, R) |Decision Analytics (Python. R) | Data Mining for Business (Python, R) | Machine Learning for Business (Python, R)
 
 <b> Bachelors of Arts in Sociology </b> 

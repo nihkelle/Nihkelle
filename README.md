@@ -1,12 +1,9 @@
 <h1>✨ Nihkelle Scott | MSBA Canditate | Data Science Enthusiast ✨</h1> 
-
-<h2>👩🏽‍💻 Test:</h2>
-
-- <b>Test</b>
-  - [Test](https://github.com/nihkelle/Test/tree/main) 
  
 <h2>👩🏽‍💻 Python Projects:</h2>
 
+- <b> Python Text Analytics and Media Analysis </b>
+  - [Text Analytics & Natural Language Processing](https://github.com/nihkelle/-Python-Text-Analytics-Media-Analysis-/blob/main/README.md)
 - <b>Foundational Python Programming: Interactive Applications</b>
   - [Interactive Applications](https://github.com/nihkelle/Python_InteractiveApplications/tree/main) 
 - <b>Python Data Structure Manipulations and Algortihms</b>

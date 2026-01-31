@@ -3,7 +3,7 @@
 <h2>👩🏽‍💻 Python Projects:</h2>
 
 - <b> Python Spotify Analysis </b>
- - [Music Data Collection and NLP-Based Lyrics Analysis](https://github.com/nihkelle/Python-Spotify-Analysis)
+  - [Music Data Collection and NLP-Based Lyrics Analysis](https://github.com/nihkelle/Python-Spotify-Analysis)
 - <b> Python Text Analytics and Media Analysis </b>
   - [Text Analytics & Natural Language Processing](https://github.com/nihkelle/-Python-Text-Analytics-Media-Analysis-/blob/main/README.md)
 - <b>Foundational Python Programming: Interactive Applications</b>
